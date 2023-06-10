@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreySaggar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack
+- 🌱 I’m currently learning backend development using PLSQL
 - 💞️ I’m looking to collaborate on a machine learning project
 - 📫 Mail me at shreysaggar0912@gmail.com
 
